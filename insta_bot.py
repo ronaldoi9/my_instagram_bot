@@ -140,6 +140,7 @@ class InstagramBot:
             time.sleep(3)
             #FIND A WAY TO SCROLL DOWN
 	    # SEE THE NEW CHANGES
+	    # SEE THE NEW CHANGES 2
             #followers_on_view = driver.find_element_by_css_selector("div[role=\'dialog\'] ul")
 
 
